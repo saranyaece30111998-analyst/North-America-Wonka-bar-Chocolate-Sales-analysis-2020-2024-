@@ -57,7 +57,9 @@ The dashboard includes:
 - **Line Chart**: Yearly profit trend  
 - **Pie Chart**: Shipment mode distribution  
 - **Column Charts**: Monthly & city-based orders  
-- **Interactive Filters (Slicers)**  
+- **Interactive Filters (Slicers)**
+- <img width="1160" height="660" alt="final dash board (2)" src="https://github.com/user-attachments/assets/2131fcd1-7ea7-4c23-ac41-ea5110f85971" />
+
 
 ---
 
