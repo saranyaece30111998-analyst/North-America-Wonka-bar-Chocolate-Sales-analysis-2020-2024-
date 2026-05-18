@@ -1,6 +1,6 @@
 
 # 🍫 North America Wonka Bar Chocolate Sales Analysis (2020–2024)
-# 🍫 North America Wonka Bar Chocolate Sales Analysis (2020–2024)
+
 
 ## 📌 Project Overview
 This project delivers a comprehensive **business intelligence dashboard** analyzing Wonka Bar chocolate sales across North America from 2020–2024.  
